@@ -370,16 +370,6 @@ Possible future enhancements:
 
 ---
 
-# Screenshots
-
-Add screenshots here:
-
-* Streamlit Dashboard
-* FastAPI Swagger UI
-* Live anomaly detection output
-
----
-
 # Author
 
 Narendra Rao Jami
